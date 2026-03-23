@@ -1,6 +1,6 @@
 <h1 align="center">⚛️ Carlos Andrés Morcillo Tapia ⚛️</h1>
-<h3 align="center">Chemist • STEM Coordinator • Science Educator • Web Designer • Data Science & AI Learner</h3>
 
+<h3 align="center">Chemist • STEM Coordinator • Science Educator • Web Designer • Data Science & AI Learner</h3>
 <p align="center">
   <a href="https://carlosmorcillo.com.co"><img src="https://img.shields.io/badge/Portfolio-carlosmorcillo.com.co-blue?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://elcientifi.co"><img src="https://img.shields.io/badge/Project-ElCientifi.co-0ea5e9?style=flat-square&logo=atom&logoColor=white"/></a>
@@ -10,10 +10,13 @@
 <p align="center">
   <i>Building bridges between science, education, technology, and innovation.</i>
 </p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Chemist%20%7C%20Education%20%7C%20Innovation&fontAlign=50&fontAlignY=40&fontSize=30&color=0:0f172a,30:1d4ed8,60:7c3aed,100:0f766e&fontColor=ffffff&desc=Science,%20learning,%20and%20technology&descAlign=50&descAlignY=62&descSize=15" />
+
+</div>
 
 # Hi, I'm Carlos Andrés Morcillo Tapia 👋
-
-## Chemist | STEM Coordinator | Science Educator | Web Designer | Data Science & AI Learner
 
 Passionate about science, education, innovation, and technology.  
 I am a **Chemist** with more than **12 years of experience in education**, currently working as **STEM Coordinator** and teacher of **AP Biology** and **AP Chemistry** at **Colegio Panamericano** in Colombia.
@@ -55,14 +58,6 @@ I teach advanced science courses, especially:
 - AP Chemistry
 - Science and interdisciplinary STEM classes
 
-My teaching approach focuses on:
-
-- Conceptual understanding
-- Inquiry and experimentation
-- Scientific communication
-- Real-world applications
-- Student creativity and critical thinking
-
 ---
 
 ## Academic and Professional Interests
@@ -77,7 +72,6 @@ My teaching approach focuses on:
 - Scientific Communication
 - Project-Based Learning
 - Web Design for Education
-- Digital Learning Environments
 
 ---
 
@@ -136,49 +130,6 @@ I enjoy building and contributing to projects related to:
 - Digital content creation
 - STEM Lab planning and coordination
 
-### Research & Communication
-- Scientific writing
-- Computational chemistry
-- Science communication
-- Interdisciplinary project design
-- Academic presentations
-- Workshop and training development
-
----
-
-## Current Learning Journey
-
-I am currently strengthening my computational profile through studies in:
-
-- Data Science
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data analysis with Python
-
-My goal is to connect these areas with:
-
-- education,
-- scientific research,
-- STEM innovation,
-- and future digital learning solutions.
-
----
-
-## Featured Professional Areas
-
-### STEM Leadership
-Designing, coordinating, and improving meaningful STEM experiences for students and teachers.
-
-### Science Education
-Teaching science in engaging, rigorous, and applied ways that connect theory with real-life contexts.
-
-### Computational Vision
-Exploring how data science, AI, and computational tools can support science education and innovation.
-
-### Educational Web Design
-Creating digital platforms and online spaces that help communicate, organize, and expand educational projects.
-
 ---
 
 ## Goals
@@ -211,10 +162,10 @@ I’m interested in collaborating on projects related to:
 - web-based educational solutions
 
 <!-- Add your links below -->
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
-- Website: [Your website URL]
-- Email: [Your email]
+- LinkedIn: [https://www.linkedin.com/in/elcientifico/]
+- GitHub: [https://github.com/CarlosAMorcillo]
+- Website: [https://www.carlosmorcillo.com.co]
+- Email: [chemistry.co.23@gmail.com]
 
 ---
 
@@ -228,16 +179,6 @@ On this GitHub profile, you may find projects related to:
 - data science learning exercises
 - computational thinking
 - academic and scientific digital tools
-
----
-
-## A Personal Note
-
-I believe science education should go beyond memorization.  
-It should invite students to **explore, question, design, communicate, and build**.  
-That is the kind of work I enjoy doing every day: connecting **science, creativity, and technology** to create meaningful learning experiences.
-
-
 
 ---
 
