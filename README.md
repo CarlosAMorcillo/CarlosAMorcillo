@@ -2,8 +2,12 @@
 
 <h3 align="center">Chemist • STEM Coordinator • Science Educator • Web Designer • Data Science & AI Learner</h3>
 <p align="center">
-  <a href="https://carlosmorcillo.com.co"><img src="https://img.shields.io/badge/Portfolio-carlosmorcillo.com.co-blue?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://elcientifi.co"><img src="https://img.shields.io/badge/Project-ElCientifi.co-0ea5e9?style=flat-square&logo=atom&logoColor=white"/></a>
+  <a href="https://carlosmorcillo.com.co" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-carlosmorcillo.com.co-blue?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://elcientifi.co" target="_blank">
+    <img src="https://img.shields.io/badge/Project-ElCientifi.co-0ea5e9?style=flat-square&logo=atom&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/Science-Chemistry%20%7C%20STEM%20%7C%20AI-6d28d9?style=flat-square"/>
 </p>
 
