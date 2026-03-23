@@ -107,28 +107,31 @@ I enjoy building and contributing to projects related to:
 
 ---
 
-## Skills
+<h2 align="center">Skills</h2>
 
-### Science & Education
-- Chemistry
-- Biology
-- AP-level science instruction
-- STEM education
-- Curriculum development
-- NGSS alignment
-- Assessment design
-- Project-based learning
-- Inquiry-based learning
+<h3 align="center">Science & Education</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Chemistry-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Biology-0891b2?style=flat-square" />
+  <img src="https://img.shields.io/badge/AP%20Science-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEM%20Education-15803d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Curriculum%20Design-f59e0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/NGSS-dc2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Assessment-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/PBL%20%26%20Inquiry-0f766e?style=flat-square" />
+</p>
 
-### Technology & Digital Tools
-- Python (learning and applying)
-- Data Science fundamentals
-- Artificial Intelligence fundamentals
-- WordPress
-- Educational web design
-- Google Workspace
-- Digital content creation
-- STEM Lab planning and coordination
+<h3 align="center">Technology & Digital Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-0f766e?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Fundamentals-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Design-1d4ed8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-34A853?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Content-9333ea?style=flat-square" />
+  <img src="https://img.shields.io/badge/STEM%20Lab%20Planning-e11d48?style=flat-square" />
+</p>
 
 ---
 
