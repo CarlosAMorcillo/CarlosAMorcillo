@@ -208,6 +208,8 @@ On this GitHub profile, you may find projects related to:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosAMorcillo&theme=github-compact&hide_border=true" />
 </p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/></p>
+
 ---
 
 ⭐ Thanks for visiting my profile.
