@@ -185,6 +185,27 @@ On this GitHub profile, you may find projects related to:
 
 ---
 
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Insights-000000?style=for-the-badge&logo=github&logoColor=orange" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosAMorcillo&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAMorcillo&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarlosAMorcillo&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosAMorcillo&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
 ⭐ Thanks for visiting my profile.
 
 ---
