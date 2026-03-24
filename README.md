@@ -63,22 +63,6 @@ I teach advanced science courses, especially:
 - Science and interdisciplinary STEM classes
 
 ---
-
-## Academic and Professional Interests
-
-- STEM Education
-- Science Curriculum Design
-- Educational Innovation
-- Computational Chemistry
-- Astrochemistry
-- Data Science
-- Artificial Intelligence
-- Scientific Communication
-- Project-Based Learning
-- Web Design for Education
-
----
-
 ## Research Background
 
 My undergraduate research focused on **computational chemistry**.
