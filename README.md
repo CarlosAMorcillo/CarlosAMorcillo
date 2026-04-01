@@ -63,22 +63,6 @@ I teach advanced science courses, especially:
 - Science and interdisciplinary STEM classes
 
 ---
-## Research Background
-
-My undergraduate research focused on **computational chemistry**.
-
-**Degree project:**  
-**“DFT Study of the Reaction Mechanism of a Ruthenium Z-Selective Catalyst for Ring-Opening Metathesis Polymerization (ROMP)”**
-
-This work involved:
-
-- Computational calculations using **Gaussian 16**
-- Use of the **M06 functional**
-- Mechanistic analysis through **Density Functional Theory (DFT)**
-
-This research strengthened my interest in the intersection between **chemistry, computation, and scientific modeling**.
-
----
 
 ## What I Do
 
